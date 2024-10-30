@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: clpp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-16 18:24+0100\n"
+"PO-Revision-Date: 2011-08-16 18:42+0100\n"
+"Last-Translator: david\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:/category-list-portfolio-page\n"
+
+#: c:/category-list-portfolio-page/admin.php:5
+msgid "Options of the Category List Portfolio Page"
+msgstr "A Kategória Lista Profólió Oldal beállításai"
+
+#: c:/category-list-portfolio-page/admin.php:19
+msgid "URLs are saved"
+msgstr "URL-ek mentve"
+
+#: c:/category-list-portfolio-page/admin.php:20
+msgid "Ok. If images are not refreshed, please rename your new images. The page only display images from your url, example: http://myblog.com/something/myimage.jpg, not from other sites: http://othersite/something/image.jpg "
+msgstr "Rendben. Ha a képek nem frissülnek, nevezd át az új képeket"
+
+#: c:/category-list-portfolio-page/admin.php:24
+msgid "Width and height of images are saved"
+msgstr "Képek szélessége és magassága mentve"
+
+#: c:/category-list-portfolio-page/admin.php:25
+msgid "Ok. If width will be too wide, images will be scaled."
+msgstr "Rendben. Ha a szélesség túl nagy lesz, a képek átméreteződnek."
+
+#: c:/category-list-portfolio-page/admin.php:29
+msgid "Columns are saved"
+msgstr "Oszlopok mentve"
+
+#: c:/category-list-portfolio-page/admin.php:30
+msgid "Ok. One (1) is the minimum and Four (4) is the maximum."
+msgstr "Rendben. Minimum egy (1), maximum négy (4)."
+
+#: c:/category-list-portfolio-page/admin.php:34
+msgid "Rounded CSS3 options are saved"
+msgstr "Lekerekített CSS3 tulajdonságok mentve"
+
+#: c:/category-list-portfolio-page/admin.php:35
+msgid "Ok. Zero (0) is the minimum and fifteen (15) is the maximum."
+msgstr "Rendben. Nulla (0) a minimum, maximum a tizentöt (15)."
+
+#: c:/category-list-portfolio-page/admin.php:131
+msgid "Category List Portfolio Page"
+msgstr "Kategória Lista Profólió Oldal"
+
+#: c:/category-list-portfolio-page/admin.php:134
+msgid "This is a Category lister plugin. Create a page and paste this shortcode: <strong>[clpp-belicza]</strong>. Now, You and anybody can see the Post's Category List of your site. You can upload new images for Category icons, but you must use urls only from your site, not from other sites. And yes, there is some other nice options."
+msgstr "Ez egy kategória listázó plugin. Hozz létre egy oldalt és illeszd be ezt a shorcode-ot: <strong>[clpp-belicza]</strong>. Mostmár te és bárki láthatja az oldalad bejegyzéseinek Kategória listáját. Feltölthetsz új képeket a kategória ikonjaihoz, de csak a saját honlapodról használhatsz képeket, más oldalakról nem. És igen, van még néhány remek lehetőség."
+
+#: c:/category-list-portfolio-page/admin.php:156
+#: c:/category-list-portfolio-page/admin.php:197
+msgid "Save radius"
+msgstr "Sugár mentése"
+
+#: c:/category-list-portfolio-page/admin.php:160
+msgid "Border name"
+msgstr "Szegély neve"
+
+#: c:/category-list-portfolio-page/admin.php:161
+msgid "Rounded border radius"
+msgstr "Lekerekített szegély sugara"
+
+#: c:/category-list-portfolio-page/admin.php:165
+msgid "Top-Left"
+msgstr "Bal-fent"
+
+#: c:/category-list-portfolio-page/admin.php:173
+msgid "Top-Right"
+msgstr "Jobb-fent"
+
+#: c:/category-list-portfolio-page/admin.php:181
+msgid "Bottom-Left"
+msgstr "Bal-lent"
+
+#: c:/category-list-portfolio-page/admin.php:189
+msgid "Bottom-Right"
+msgstr "Jobb-lent"
+
+#: c:/category-list-portfolio-page/admin.php:210
+#: c:/category-list-portfolio-page/admin.php:227
+msgid "Save Columns"
+msgstr "Oszlopok mentése"
+
+#: c:/category-list-portfolio-page/admin.php:214
+msgid "Columns"
+msgstr "Oszlopok"
+
+#: c:/category-list-portfolio-page/admin.php:215
+#: c:/category-list-portfolio-page/admin.php:245
+msgid "Value"
+msgstr "Érték"
+
+#: c:/category-list-portfolio-page/admin.php:219
+msgid "Numbers of the Category Page's columns"
+msgstr "A Kategória oldal oszlopainak száma"
+
+#: c:/category-list-portfolio-page/admin.php:240
+#: c:/category-list-portfolio-page/admin.php:264
+msgid "Save sizes"
+msgstr "Méretek mentése"
+
+#: c:/category-list-portfolio-page/admin.php:244
+msgid "Dimension"
+msgstr "Irányok"
+
+#: c:/category-list-portfolio-page/admin.php:249
+msgid "Width"
+msgstr "Szélesség"
+
+#: c:/category-list-portfolio-page/admin.php:257
+msgid "Height"
+msgstr "Magasság"
+
+#: c:/category-list-portfolio-page/admin.php:283
+#: c:/category-list-portfolio-page/admin.php:311
+msgid "Save Urls"
+msgstr "URL-ek mentése"
+
+#: c:/category-list-portfolio-page/admin.php:287
+msgid "Image"
+msgstr "Kép"
+
+#: c:/category-list-portfolio-page/admin.php:288
+msgid "Category Name"
+msgstr "Kategória név"
+
+#: c:/category-list-portfolio-page/admin.php:289
+msgid "URL of the image"
+msgstr "A kép URL-je"
+

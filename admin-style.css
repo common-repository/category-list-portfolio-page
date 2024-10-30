@@ -1,0 +1,57 @@
+.clpp-table{
+	width:100%;
+	padding: 10px 10px 100px 10px;
+}
+.clpp-table span{
+	color:red;
+	font-weight:bold;
+}
+.clpp-table th{
+	padding: 10px;
+	border-bottom:1px solid #ccc;
+	font-size:1.5em;
+	color:grey;
+	background:#cfe6ff;
+	text-align:left;
+}
+.clpp_ok th{
+	background:#d0ffc7 !important;
+	text-align:center;
+}
+.clpp_title th{
+	background:#cfe6ff !important;
+}
+.clpp_alert, .clpp_ok{
+	width:50%;
+	margin-left:25%;
+}
+.clpp_alert th{
+	background:#ff602f !important;
+	color:white !important;
+}
+.clpp_alert td{
+	background:#eeeeee;
+	border:1px solid #ccc;
+}
+.clpp_line:hover{
+	background:#cfe6ff;
+}
+.clpp-table td{
+	padding: 10px;
+	border-bottom:1px solid #ccc;
+	font-size:1.2em;
+}
+.clpp_input input {
+	width:100%;
+	font-size:1.2em;
+}
+.clpp_input input:focus, .clpp_input textarea:focus {
+	background:#cfe6ff;
+}
+#save, #mod_cols, #mod_size, #mod_radio{
+	padding:7px 10px 7px 10px;
+	font-size:1.2em;
+}
+#save:hover, #mod_cols:hover, #mod_size:hover, #mod_radio:hover{
+	background:#cfe6ff;
+}

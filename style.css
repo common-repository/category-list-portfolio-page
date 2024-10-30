@@ -1,0 +1,49 @@
+.clpp_cat_box{
+	margin:0;
+	padding:0;
+	line-height:0px;
+
+}
+.clpp_cat_box img{
+	margin:0;
+	padding:0;
+	max-width:100% !important;
+}
+.clpp_cat_content{
+	margin:5px;
+	padding:5px;
+	border:1px solid #d0d0d0;
+}
+
+.entry-content .clpp_cat_icon {
+	overflow:hidden;
+	position:relative;
+}
+.clpp_cat_icon {
+	margin:0;
+	padding:0;
+}
+.clpp_cat_title {
+	padding:5px 0 5px 5px;
+}
+.entry-content .clpp_cat_title_helper{
+	bottom:0;
+	width:100%;
+}
+.clpp_cat_title_helper{
+	position:absolute;
+	margin:0;
+	background:black;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	opacity: 0.5;
+	color:white;
+	font-weight:bold;
+	line-height:1;
+}
+.clpp_cat_title a, .clpp_cat_title a:hover, .clpp_cat_title a:visited{
+	color:white !important;
+	text-decoration:none !important;
+	display:block !important;
+	font-size: 1.5em !important;
+}
